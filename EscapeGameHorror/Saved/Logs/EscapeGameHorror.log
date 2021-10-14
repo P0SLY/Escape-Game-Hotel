@@ -898,3 +898,292 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.14-13.04.44:615][969]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.14-13.04.44:615][969]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Showroom_BuiltData.Showroom_BuiltData
 [2021.10.14-13.04.44:616][969]LogContentValidation: Display: Validating World /Game/Showroom.Showroom
+[2021.10.14-13.05.50:607][922]LogEditorViewport: Clicking on Actor (LMB): Coffre_BP_C (Coffre_BP)
+[2021.10.14-13.05.58:775][901]LogEditorViewport: Clicking on Actor (LMB): SecurityPanel_BP_C (SecurityPanel_BP)
+[2021.10.14-13.06.29:072][323]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-13.06.29:076][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-13.06.29:076][323]PIE: New page: PIE session: Showroom (14 oct. 2021 à 17:06:29)
+[2021.10.14-13.06.29:112][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Showroom
+[2021.10.14-13.06.29:162][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050091s)
+[2021.10.14-13.06.29:163][323]LogAIModule: Creating AISystem for world Showroom
+[2021.10.14-13.06.29:176][323]LogPlayLevel: PIE: World Init took: (0.013975s)
+[2021.10.14-13.06.29:176][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Showroom.Showroom to /Game/UEDPIE_0_Showroom.Showroom (0.064235s)
+[2021.10.14-13.06.29:192][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.10.14-13.06.29:198][323]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.14-13.06.29:198][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-13.06.29:199][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-13.06.29:199][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-13.06.29:199][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-13.06.29:199][323]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-13.06.29:199][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-13.06.29:199][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-13.06.29:199][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-13.06.29:199][323]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-13.06.29:199][323]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-13.06.29:201][323]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-13.06.29:201][323]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-13.06.29:208][323]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.10.14-13.06.29:208][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-13.06.29:208][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-13.06.29:209][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-13.06.29:209][323]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-13.06.29:209][323]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-13.06.29:209][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-13.06.29:220][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-13.06.29:220][323]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-13.06.29:220][323]LogInit: FAudioDevice initialized.
+[2021.10.14-13.06.29:220][323]LogAudio: Display: Audio Device (ID: 3) registered with world 'Showroom'.
+[2021.10.14-13.06.29:229][323]LogLoad: Game class is 'BP_StoryAdventureGameMode_C'
+[2021.10.14-13.06.29:238][323]LogWorld: Bringing World /Game/UEDPIE_0_Showroom.Showroom up for play (max tick rate 0) at 2021.10.14-15.06.29
+[2021.10.14-13.06.29:238][323]LogWorld: Bringing up level for play took: 0.008895
+[2021.10.14-13.06.29:238][323]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.14-13.06.29:244][323]PIE: Server logged in
+[2021.10.14-13.06.29:245][323]PIE: Play in editor total start time 0,169 seconds.
+[2021.10.14-13.06.32:988][767]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.10.14-13.06.32:988][767]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.10.14-13.06.32:988][767]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.10.14-13.06.37:554][315]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.10.14-13.06.37:554][315]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.10.14-13.06.40:762][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.06.40:762][695]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Showroom
+[2021.10.14-13.06.40:763][695]LogWorld: UWorld::CleanupWorld for Showroom, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-13.06.40:765][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.06.40:775][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-13.06.40:783][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.06.40:798][695]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-13.06.40:798][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.06.40:799][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.06.40:811][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.06.40:816][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.10.14-13.06.40:843][696]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.10.14-13.06.42:231][861]LogEditorViewport: Clicking on Actor (LMB): Coffre_BP_C (Coffre_BP)
+[2021.10.14-13.06.55:921][468]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-13.06.55:926][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-13.06.55:926][468]PIE: New page: PIE session: Showroom (14 oct. 2021 à 17:06:55)
+[2021.10.14-13.06.55:971][468]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Showroom
+[2021.10.14-13.06.56:023][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051432s)
+[2021.10.14-13.06.56:024][468]LogAIModule: Creating AISystem for world Showroom
+[2021.10.14-13.06.56:024][468]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2021.10.14-13.06.56:024][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Showroom.Showroom to /Game/UEDPIE_0_Showroom.Showroom (0.052437s)
+[2021.10.14-13.06.56:040][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.10.14-13.06.56:043][468]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.14-13.06.56:043][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-13.06.56:043][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-13.06.56:043][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-13.06.56:043][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-13.06.56:043][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-13.06.56:043][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-13.06.56:043][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-13.06.56:043][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-13.06.56:044][468]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-13.06.56:044][468]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-13.06.56:046][468]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-13.06.56:046][468]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-13.06.56:052][468]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.10.14-13.06.56:052][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-13.06.56:052][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-13.06.56:052][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-13.06.56:053][468]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-13.06.56:053][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-13.06.56:053][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-13.06.56:064][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-13.06.56:064][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-13.06.56:064][468]LogInit: FAudioDevice initialized.
+[2021.10.14-13.06.56:064][468]LogAudio: Display: Audio Device (ID: 4) registered with world 'Showroom'.
+[2021.10.14-13.06.56:071][468]LogLoad: Game class is 'BP_StoryAdventureGameMode_C'
+[2021.10.14-13.06.56:080][468]LogWorld: Bringing World /Game/UEDPIE_0_Showroom.Showroom up for play (max tick rate 0) at 2021.10.14-15.06.56
+[2021.10.14-13.06.56:080][468]LogWorld: Bringing up level for play took: 0.008524
+[2021.10.14-13.06.56:080][468]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.10.14-13.06.56:086][468]PIE: Server logged in
+[2021.10.14-13.06.56:087][468]PIE: Play in editor total start time 0,161 seconds.
+[2021.10.14-13.07.02:951][288]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.10.14-13.07.02:951][288]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.10.14-13.07.02:951][288]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.10.14-13.07.03:603][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.07.03:603][362]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Showroom
+[2021.10.14-13.07.03:604][362]LogWorld: UWorld::CleanupWorld for Showroom, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-13.07.03:605][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.07.03:613][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-13.07.03:620][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.07.03:634][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-13.07.03:634][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.07.03:635][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.07.03:647][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.07.03:654][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.10.14-13.07.03:676][363]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.10.14-13.07.16:024][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StoryAdvTemplate/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2021.10.14-13.07.53:957][822]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2021.10.14-13.07.53:998][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.14-13.07.55:956][980]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2021.10.14-13.07.55:960][980]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2021.10.14-13.07.56:001][980]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-13.07.56:001][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.07.57:321][111]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-13.07.57:326][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-13.07.57:326][111]PIE: New page: PIE session: Showroom (14 oct. 2021 à 17:07:57)
+[2021.10.14-13.07.57:362][111]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Showroom
+[2021.10.14-13.07.57:411][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049225s)
+[2021.10.14-13.07.57:412][111]LogAIModule: Creating AISystem for world Showroom
+[2021.10.14-13.07.57:412][111]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2021.10.14-13.07.57:412][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Showroom.Showroom to /Game/UEDPIE_0_Showroom.Showroom (0.050226s)
+[2021.10.14-13.07.57:430][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.10.14-13.07.57:432][111]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.14-13.07.57:432][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-13.07.57:432][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-13.07.57:432][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-13.07.57:432][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-13.07.57:432][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-13.07.57:432][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-13.07.57:432][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-13.07.57:432][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-13.07.57:433][111]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-13.07.57:433][111]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-13.07.57:435][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-13.07.57:435][111]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-13.07.57:441][111]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.10.14-13.07.57:441][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-13.07.57:441][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-13.07.57:441][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-13.07.57:442][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-13.07.57:442][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-13.07.57:442][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-13.07.57:452][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-13.07.57:452][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-13.07.57:452][111]LogInit: FAudioDevice initialized.
+[2021.10.14-13.07.57:452][111]LogAudio: Display: Audio Device (ID: 5) registered with world 'Showroom'.
+[2021.10.14-13.07.57:459][111]LogLoad: Game class is 'BP_StoryAdventureGameMode_C'
+[2021.10.14-13.07.57:469][111]LogWorld: Bringing World /Game/UEDPIE_0_Showroom.Showroom up for play (max tick rate 0) at 2021.10.14-15.07.57
+[2021.10.14-13.07.57:469][111]LogWorld: Bringing up level for play took: 0.009161
+[2021.10.14-13.07.57:469][111]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.10.14-13.07.57:475][111]PIE: Server logged in
+[2021.10.14-13.07.57:476][111]PIE: Play in editor total start time 0,151 seconds.
+[2021.10.14-13.08.06:972][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.08.06:972][241]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Showroom
+[2021.10.14-13.08.06:973][241]LogWorld: UWorld::CleanupWorld for Showroom, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-13.08.06:974][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.08.06:979][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-13.08.06:992][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.08.07:008][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-13.08.07:009][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.08.07:009][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.08.07:021][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.08.07:028][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.14-13.08.07:056][242]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.14-13.08.07:886][340]LogEditorViewport: Clicking on Actor (LMB): Coffre_BP_C (Coffre_BP)
+[2021.10.14-13.08.09:440][524]LogEditorViewport: Clicking on Actor (LMB): SecurityPanel_BP_C (SecurityPanel_BP)
+[2021.10.14-13.08.12:770][921]LogEditorViewport: Clicking on Actor (LMB): Coffre_BP_C (Coffre_BP)
+[2021.10.14-13.08.14:986][174]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-13.08.14:991][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-13.08.14:991][174]PIE: New page: PIE session: Showroom (14 oct. 2021 à 17:08:14)
+[2021.10.14-13.08.15:032][174]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Showroom
+[2021.10.14-13.08.15:082][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049193s)
+[2021.10.14-13.08.15:082][174]LogAIModule: Creating AISystem for world Showroom
+[2021.10.14-13.08.15:083][174]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2021.10.14-13.08.15:083][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Showroom.Showroom to /Game/UEDPIE_0_Showroom.Showroom (0.050188s)
+[2021.10.14-13.08.15:100][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.14-13.08.15:102][174]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.14-13.08.15:102][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-13.08.15:103][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-13.08.15:103][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-13.08.15:103][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-13.08.15:103][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-13.08.15:103][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-13.08.15:103][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-13.08.15:103][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-13.08.15:103][174]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-13.08.15:103][174]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-13.08.15:105][174]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-13.08.15:105][174]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-13.08.15:111][174]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.10.14-13.08.15:112][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-13.08.15:112][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-13.08.15:112][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-13.08.15:112][174]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-13.08.15:112][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-13.08.15:112][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-13.08.15:124][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-13.08.15:124][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-13.08.15:124][174]LogInit: FAudioDevice initialized.
+[2021.10.14-13.08.15:124][174]LogAudio: Display: Audio Device (ID: 6) registered with world 'Showroom'.
+[2021.10.14-13.08.15:135][174]LogLoad: Game class is 'BP_StoryAdventureGameMode_C'
+[2021.10.14-13.08.15:144][174]LogWorld: Bringing World /Game/UEDPIE_0_Showroom.Showroom up for play (max tick rate 0) at 2021.10.14-15.08.15
+[2021.10.14-13.08.15:145][174]LogWorld: Bringing up level for play took: 0.008582
+[2021.10.14-13.08.15:145][174]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.10.14-13.08.15:151][174]PIE: Server logged in
+[2021.10.14-13.08.15:151][174]PIE: Play in editor total start time 0,161 seconds.
+[2021.10.14-13.08.21:463][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.08.21:463][923]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Showroom
+[2021.10.14-13.08.21:463][923]LogWorld: UWorld::CleanupWorld for Showroom, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-13.08.21:465][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.08.21:474][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-13.08.21:482][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.08.21:497][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.08.21:499][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.08.21:499][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.08.21:515][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.10.14-13.08.21:542][924]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.10.14-13.08.22:555][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StoryAdvTemplate/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2021.10.14-13.08.33:038][162]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2021.10.14-13.08.33:077][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.10.14-13.08.34:671][340]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2021.10.14-13.08.34:675][340]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2021.10.14-13.08.34:721][340]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-13.08.34:721][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.08.36:612][543]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-13.08.36:617][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-13.08.36:617][543]PIE: New page: PIE session: Showroom (14 oct. 2021 à 17:08:36)
+[2021.10.14-13.08.36:641][543]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Showroom
+[2021.10.14-13.08.36:690][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049037s)
+[2021.10.14-13.08.36:691][543]LogAIModule: Creating AISystem for world Showroom
+[2021.10.14-13.08.36:691][543]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2021.10.14-13.08.36:691][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Showroom.Showroom to /Game/UEDPIE_0_Showroom.Showroom (0.050045s)
+[2021.10.14-13.08.36:711][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.14-13.08.36:712][543]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.14-13.08.36:712][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-13.08.36:712][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-13.08.36:712][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-13.08.36:712][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-13.08.36:712][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-13.08.36:712][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-13.08.36:712][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-13.08.36:712][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-13.08.36:713][543]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-13.08.36:713][543]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-13.08.36:715][543]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-13.08.36:715][543]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-13.08.36:721][543]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.10.14-13.08.36:721][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-13.08.36:721][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-13.08.36:721][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-13.08.36:721][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-13.08.36:721][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-13.08.36:722][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-13.08.36:733][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-13.08.36:733][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-13.08.36:733][543]LogInit: FAudioDevice initialized.
+[2021.10.14-13.08.36:733][543]LogAudio: Display: Audio Device (ID: 7) registered with world 'Showroom'.
+[2021.10.14-13.08.36:740][543]LogLoad: Game class is 'BP_StoryAdventureGameMode_C'
+[2021.10.14-13.08.36:749][543]LogWorld: Bringing World /Game/UEDPIE_0_Showroom.Showroom up for play (max tick rate 0) at 2021.10.14-15.08.36
+[2021.10.14-13.08.36:749][543]LogWorld: Bringing up level for play took: 0.008367
+[2021.10.14-13.08.36:749][543]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.10.14-13.08.36:755][543]PIE: Server logged in
+[2021.10.14-13.08.36:755][543]PIE: Play in editor total start time 0,139 seconds.
+[2021.10.14-13.08.48:642][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.08.48:642][959]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Showroom
+[2021.10.14-13.08.48:643][959]LogWorld: UWorld::CleanupWorld for Showroom, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-13.08.48:644][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.08.48:652][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-13.08.48:666][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-13.08.48:682][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-13.08.48:682][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.08.48:683][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-13.08.48:695][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-13.08.48:703][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.14-13.08.48:730][960]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.14-13.09.20:660][775]LogEditorViewport: Clicking on Actor (context menu): Coffre_BP_C (Coffre_BP)
+[2021.10.14-13.10.12:286][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.14-13.10.12:462][307]LogSavePackage: Moving '../../../../Bureau/Developpement jeux/Créations Jeux Vidéo/escape Game Horror/EscapeGameHorror/Escape-Game-Hotel/EscapeGameHorror/Saved/Showroom7F925848490532CFB4F80CAD6339976D.tmp' to '../../../../Bureau/Developpement jeux/Créations Jeux Vidéo/escape Game Horror/EscapeGameHorror/Escape-Game-Hotel/EscapeGameHorror/Content/Showroom.umap'
+[2021.10.14-13.10.12:501][307]LogSavePackage: Moving '../../../../Bureau/Developpement jeux/Créations Jeux Vidéo/escape Game Horror/EscapeGameHorror/Escape-Game-Hotel/EscapeGameHorror/Saved/Showroom_BuiltData57D048914F20B726F75137B25EB65B6E.tmp' to '../../../../Bureau/Developpement jeux/Créations Jeux Vidéo/escape Game Horror/EscapeGameHorror/Escape-Game-Hotel/EscapeGameHorror/Content/Showroom_BuiltData.uasset'
+[2021.10.14-13.10.12:515][307]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.14-13.10.12:515][307]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Showroom_BuiltData.Showroom_BuiltData
+[2021.10.14-13.10.12:515][307]LogContentValidation: Display: Validating World /Game/Showroom.Showroom
